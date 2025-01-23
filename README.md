@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=D49796&text=Hi%20👋,%20I'm%20Dania%20Abu%20Ali&fontSize=34&section=header)
-<h1 align="center">Hi 👋, I'm Dania Abu Ali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniaabuali&label=Profile%20views&color=0e75b6&style=flat" alt="daniaabuali" /> </p>
 
 - 🌱 I’m currently learning **web Development**
