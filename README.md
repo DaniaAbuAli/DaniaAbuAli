@@ -1,9 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=D49796&text=Hi%20👋,%20I'm%20Dania%20Abu%20Ali&fontSize=34&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=D49796&text=Hi%20👋,%20I'm%20Dania%20Abu%20Ali&fontSize=34&section=header)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniaabuali&label=Profile%20views&color=0e75b6&style=flat" alt="daniaabuali" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFhbzhrczg1M3I3MzU0d3N2ZncxeDE3NDM3azllNmFhanBrbGI1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 - 🌱 I’m currently learning **web Development**
 
 - 📫 How to reach me **daniaabuali12@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniaabuali&" alt="daniaabuali" /></p>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=D49796&fontSize=34&section=footer)
