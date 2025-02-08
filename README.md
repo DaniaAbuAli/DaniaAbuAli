@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniaabuali&label=Profile%20views&color=0e75b6&style=flat" alt="daniaabuali" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFhbzhrczg1M3I3MzU0d3N2ZncxeDE3NDM3azllNmFhanBrbGI1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🌱 I’m currently learning *web Development*
+- 🌱 I’m currently learning **web Development**
 
-- 📫 How to reach me *daniaabuali12@gmail.com*
+- 📫 How to reach me **daniaabuali12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
